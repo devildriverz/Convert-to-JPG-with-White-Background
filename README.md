@@ -12,7 +12,6 @@ This Python script simplifies the process of converting images (JPG, JPEG, PNG) 
 
 ## Key Improvements
 
-- **Clear Configuration:**  Users can easily edit the `IMAGE_DIRECTORY` and `OUTPUT_FOLDER` paths at the top of the script file.
 - **Informative README:** Explains the purpose, features, setup, and how to use the script.
 - **GitHub Friendliness:**  Instructions for cloning and contributing are included.
 
