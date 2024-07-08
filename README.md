@@ -25,4 +25,4 @@ This Python script simplifies the process of converting images (JPG, JPEG, PNG) 
 
 1. **Clone the Repository:**
    ```bash
-   https://github.com/devildriverz/Convert-to-JPG-with-White-Background.git
+   gitclone https://github.com/devildriverz/Convert-to-JPG-with-White-Background.git
