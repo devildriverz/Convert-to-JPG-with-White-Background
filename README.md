@@ -19,7 +19,7 @@ This Python script simplifies the process of converting images (JPG, JPEG, PNG) 
 ## Prerequisites
 
 - **Python:** You'll need Python 3.x installed on your system.
-- **Pillow (PIL Fork):** Install it using `pip install Pillow`.
+- **Pillow (PIL Fork):** Install it using `pip install Image`.
 
 ## Usage
 
